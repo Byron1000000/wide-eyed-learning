@@ -1,57 +1,54 @@
 title: "Wide Eyed Learning"
 email: bjacollins@icloud.com
 timezone: GMT
+
 url: "https://byron1000000.github.io"
 baseurl: "/wide-eyed-learning"
+
 permalink: "/:title/"
+
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
+
 author: Byron
 paginate: 30
-disqus: 'demowebsite'
+
 locale: en_us
 lang: en_us
+
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
+
 markdown: kramdown
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
+
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+
+# Google Analytics (remove or replace with your own tracking ID)
+ganalytics:
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  byron:
+    name: Byron Collins
+    display_name: Byron
+    avatar: 'assets/images/byron.png'
+    email: bjacollins@icloud.com
+    description: "Mathematics tutor helping students build confidence, improve understanding, and achieve their academic goals through personalised tuition."
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
-
+  linkedin: https://www.linkedin.com/
+  
 # Plugins
-plugins: 
+plugins:
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-seo-tag
-- jekyll-archives
