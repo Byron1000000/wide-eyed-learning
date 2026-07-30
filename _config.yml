@@ -1,12 +1,12 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
-timezone: UTC
+title: "Wide Eyed Learning"
+email: bjacollins@icloud.com
+timezone: GMT
 url: "https://byron1000000.github.io"
 baseurl: "/wide-eyed-learning"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Byron
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
