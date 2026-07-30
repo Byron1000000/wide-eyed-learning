@@ -1,7 +1,8 @@
 title: "Affiliates"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+url: "https://byron1000000.github.io"
+baseurl: "/wide-eyed-learning"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
