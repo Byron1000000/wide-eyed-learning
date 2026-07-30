@@ -7,15 +7,8 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: Tuition
-  url: "tuition/"
-
 - title: Contact
   url: "contact/"
-
-- title: Book a Consultation
-  url: "contact/"
-  class: "ml-2 btn btn-dark text-white px-3"
 
 # Footer Menu
 footermenu:
