@@ -7,13 +7,15 @@ topmenu:
 - title: About
   url: "about/"
 
+- title: Tuition
+  url: "tuition/"
+
 - title: Contact
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Book a Consultation
+  url: "contact/"
   class: "ml-2 btn btn-dark text-white px-3"
-  external: true
 
 # Footer Menu
 footermenu:
@@ -21,12 +23,11 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+- title: About
+  url: "about/"
+
+- title: Tuition
+  url: "tuition/"
 
 - title: Contact
   url: "contact/"
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
