@@ -19,8 +19,5 @@ footermenu:
 - title: About
   url: "about/"
 
-- title: Tuition
-  url: "tuition/"
-
 - title: Contact
   url: "contact/"
