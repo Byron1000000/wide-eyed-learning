@@ -6,7 +6,7 @@ Just customize your theme here.
 body {}
 
 .navbar-brand img {
-    height: 30px !important;
+    height: 100px !important;
     width: auto !important;
-    max-height: 30px !important;
+    max-height: 100px !important;
 }
